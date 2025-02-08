@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'TextComponent.dart';
+import 'textComponent.dart';
 
 void main() {
   runApp(const MyApp());
